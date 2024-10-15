@@ -1,1 +1,1 @@
-This is a repository where I try to learn basic git and HTML.
+Først project from The Odin Project. I try my hands on basic HTML and GIT.
